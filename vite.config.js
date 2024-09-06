@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "https://kerimcanbalkan.com",
+  base: "./",
   build: {
     minify: "terser",
   },
