@@ -3,7 +3,7 @@ export const scaleFactor = 4;
 export const dialogueData = {
   welcome: `Welcome!
 I’m Kerimcan Balkan. This is my interactive portfolio - explore, move around, and learn more about me!
-In a hurry? Check out the <a href="#">boring version</a> instead.`,
+In a hurry? Check out the <a href="https://kerimcanbalkan.github.io/boring-portfolio/">boring version</a> instead.`,
   computer: `This is my Computer!
 I spend a lot of time coding in JavaScript and TypeScript for both frontend and backend projects. Lately, I’ve been diving into Golang and I’m loving it! I’m mostly self-taught and truly passionate about coding. If you’re curious to see my work, check out my GitHub account: <a href="https://www.github.com/kerimcanbalkan" target="_blank">My Github</a> `,
   tv: `That's my TV.When I’m not coding or stargazing, I’m watching epic anime like Naruto and One Piece. I also watch a lot of YouTube—tech, repair, and even history stuff. My sister says these are the "boring" videos, but hey, I think they’re pretty cool. Someone’s gotta know how to fix things and learn from the past!`,
